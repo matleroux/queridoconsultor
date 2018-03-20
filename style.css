@@ -1,0 +1,41 @@
+body {
+  background-color: #F4F4F4;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  color: rgb(15,15,15);
+  font-size: 45px;
+  padding-bottom: 50px;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: rgb(15,15,15);
+  padding:25px;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+main {
+  margin-left:250px;
+  margin-right:250px;
+  margin-top:50px;
+  margin-bottom:50px;
+  background-color: rgb(253,253,253);
+  border-radius: 4px;
+  padding:100px;
+}
+
+#section {
+  margin-bottom: 10px;
+}
+
+a {
+  color:#E3001C;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#ff5a5f;
+}
